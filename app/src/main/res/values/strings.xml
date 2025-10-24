@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Responsi 1 Mobile H1D023072</string>
+    <string name="club_name">Derby County</string>
+    <string name="club_name_history">Derby County History</string>
+    <string name="club_desk">Derby County Football Club adalah klub sepak bola profesional yang berbasis di Derby, Derbyshire, Inggris. Klub ini dijuluki "The Rams" dan bermarkas di Pride Park Stadium.
+
+Derby County saat ini berkompetisi di EFL League One dan dikenal sebagai salah satu klub bersejarah di Inggris dengan basis suporter setia yang besar.</string>
+    <string name="club_history">Derby County Football Club didirikan pada tahun 1884 oleh anggota Derbyshire County Cricket Club. Klub ini merupakan salah satu dari dua belas pendiri Football League, liga sepak bola profesional pertama di dunia, pada tahun 1888.
+
+Sepanjang sejarahnya, Derby County pernah meraih kejayaan besar terutama di era 1970-an di bawah kepelatihan Brian Clough dan Dave Mackay. Mereka berhasil menjuarai First Division (sekarang Premier League) dua kali — pada musim 1971–72 dan 1974–75.
+
+Selain sukses domestik, Derby County juga pernah tampil di kompetisi Eropa dan dikenal karena atmosfer fanatik di stadion mereka, yang selalu dipenuhi oleh para pendukung "The Rams". Hingga kini, klub terus berusaha bangkit dan kembali ke kasta tertinggi sepak bola Inggris.</string>
+    <string name="history">Club History</string>
+    <string name="coach">Head Coach</string>
+    <string name="squad">Team Squad</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
