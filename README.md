@@ -1,9 +1,9 @@
 # Responsi-1-mobile-H1D023072
 
-**Nama : Khafriza Diaz Permana**
-**NIM : H1D023072**
-**Shift KRS : F**
-**Shift sekarang : D**
+* **Nama : Khafriza Diaz Permana**
+* **NIM : H1D023072**
+* **Shift KRS : F**
+* **Shift sekarang : D**
 
 ---
 
